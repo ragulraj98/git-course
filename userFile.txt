@@ -1,0 +1,2 @@
+usrname = ragul
+password =  876
